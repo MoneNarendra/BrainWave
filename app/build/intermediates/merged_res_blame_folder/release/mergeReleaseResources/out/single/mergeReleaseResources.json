@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\layout_review_popup.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\layout\\review_popup.xml"
+    },
+    {
+        "merged": "com.brainwatch.app-release-4:/layout_activity_main.xml.flat",
+        "source": "com.brainwatch.app-main-5:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.brainwatch.app-release-4:/xml_accessibility_service_config.xml.flat",
+        "source": "com.brainwatch.app-main-5:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\drawable_ic_launcher_fg.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\drawable\\ic_launcher_fg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\layout_overlay_chip.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\layout\\overlay_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\layout_widget_tracker.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\layout\\widget_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\drawable_bg_review.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\drawable\\bg_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\xml_accessibility_service_config.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\drawable_bg_overlay.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\drawable\\bg_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.brainwatch.app-release-4:/layout_review_popup.xml.flat",
+        "source": "com.brainwatch.app-main-5:/layout/review_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\drawable_ic_bolt.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\drawable\\ic_bolt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\drawable_bg_widget.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\drawable\\bg_widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-release-4:\\xml_tracker_widget_info.xml.flat",
+        "source": "C:\\Users\\Narendra\\.gradle\\daemon\\8.7\\com.brainwatch.app-main-5:\\xml\\tracker_widget_info.xml"
+    },
+    {
+        "merged": "com.brainwatch.app-release-4:/layout_overlay_chip.xml.flat",
+        "source": "com.brainwatch.app-main-5:/layout/overlay_chip.xml"
+    }
+]

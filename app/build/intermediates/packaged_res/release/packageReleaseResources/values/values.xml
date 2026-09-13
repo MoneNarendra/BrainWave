@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#B49BFF</color>
+    <color name="amber">#FFD54F</color>
+    <color name="bg">#14111F</color>
+    <color name="bg_card">#221C33</color>
+    <color name="bg_card_pressed">#2A2340</color>
+    <color name="border">#3B3357</color>
+    <color name="danger">#FF7B9C</color>
+    <color name="neon">#6FE7C7</color>
+    <color name="text_dim">#9C93BC</color>
+    <color name="text_main">#EDEAF6</color>
+    <string name="accessibility_desc">BrainWatch uses this service to count your scrolls and reels inside Instagram so it can show how tired your dopamine system has become. It reads only Instagram\'s screen layout to tell Reels from the Feed - nothing else. No data leaves your phone. You can disable it anytime.</string>
+    <string name="accessibility_label">BrainWatch tracking service</string>
+    <string name="app_name">BrainWatch</string>
+    <string name="btn_access">Enable tracking service</string>
+    <string name="btn_ok">Granted ✓</string>
+    <string name="btn_overlay">Enable float overlay</string>
+    <string name="btn_usage">Enable usage access</string>
+    <string name="cur_none">Not using Instagram right now</string>
+    <string name="cur_session">CURRENT SESSION</string>
+    <string name="disclaimer">Estimates only. Brains are notoriously hard to measure — this app does not give medical advice and no screen-reading data is ever sent off your device.</string>
+    <string name="fatigue_desc_default">Your brain is a factory of feel-good chemicals. Every scroll and reel fires little dopamine hits. This tracker estimates how drained that factory is today, and shows it on the brain. Take a walk when it gets tired.</string>
+    <string name="fatigue_title">Dopamine Fatigue</string>
+    <string name="perm_note">Time tracking needs “Usage access”. Scroll &amp; reel counting needs the tracking service toggled on in Accessibility settings. The overlay needs “Display over other apps”. Everything stays 100% on-device.</string>
+    <string name="perm_note_all">All sensors active — a live watch appears on top of Instagram.</string>
+    <string name="sessions_empty">No sessions yet today. Scroll some Instagram and come back!</string>
+    <string name="sessions_title">Recent sessions</string>
+    <string name="stat_reels">Reels</string>
+    <string name="stat_scrolls">Scrolls</string>
+    <string name="stat_taps">Taps</string>
+    <string name="stat_time">IG time today</string>
+    <string name="state_buzzing">Buzzing — you are grinding through some dopamine</string>
+    <string name="state_fresh">Fresh &amp; focused — your reward system is recharged</string>
+    <string name="state_fuzzy">Fuzzy — scrolling fatigue is creeping in</string>
+    <string name="state_overload">Overloaded — your brain is begging for a break</string>
+    <string name="tagline">Dopamine Fatigue Tracker</string>
+    <string name="widget_desc">Live Instagram watch — session timer, scrolls, reels and today\'s fatigue.</string>
+    <string name="widget_label">BrainWatch live watch</string>
+    <style name="Card" parent="">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/bg_card</item>
+        <item name="android:padding">16dp</item>
+    </style>
+    <style name="Theme.BrainWatch" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/bg</item>
+        <item name="android:statusBarColor">@color/bg</item>
+        <item name="android:navigationBarColor">@color/bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

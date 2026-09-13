@@ -1,0 +1,7 @@
+com.brainwatch.app-pngs-0 C:\Users\Narendra\Documents\CanMakeAPK\app\build\generated\res\pngs\release
+com.brainwatch.app-resValues-1 C:\Users\Narendra\Documents\CanMakeAPK\app\build\generated\res\resValues\release
+com.brainwatch.app-packageReleaseResources-2 C:\Users\Narendra\Documents\CanMakeAPK\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.brainwatch.app-packageReleaseResources-3 C:\Users\Narendra\Documents\CanMakeAPK\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.brainwatch.app-release-4 C:\Users\Narendra\Documents\CanMakeAPK\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.brainwatch.app-main-5 C:\Users\Narendra\Documents\CanMakeAPK\app\src\main\res
+com.brainwatch.app-release-6 C:\Users\Narendra\Documents\CanMakeAPK\app\src\release\res
