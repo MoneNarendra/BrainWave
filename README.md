@@ -84,7 +84,6 @@ Set `sdk.dir` in `local.properties` to your Android SDK if it's not auto-detecte
 
 This is a vibe-coded experiment and an *estimate*, not a medical device. Brains are famously hard to measure — treat the numbers as a gentle nudge, not a diagnosis.
 
-
-![alt text](image-1.png)
-
-![alt text](image.png)
+<img width="1080" height="2400" alt="Screenshot_20260914-040147_Instagram" src="https://github.com/user-attachments/assets/062ee0c7-a572-4c03-aa16-efc8be4af886" />
+<img width="1080" height="2400" alt="Screenshot_20260914-035352_BrainWatch" src="https://github.com/user-attachments/assets/9ec5ae15-9ec2-4a6f-b206-c873b3d6f416" />
+<img width="1080" height="2400" alt="Screenshot_20260914-035341_BrainWatch" src="https://github.com/user-attachments/assets/9f53b2c4-4512-4834-8110-f3f5b81e6944" />
